@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bio-instagram"
+    }
+  },
+  "defaultProject": "bio-instagram",
+  "cli": {
+    "analytics": false
+  }
 }
